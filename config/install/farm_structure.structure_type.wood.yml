@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_structure_types
+      - farm_structure_asset_extended
+id: wood
+label: Wood

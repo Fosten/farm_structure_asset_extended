@@ -1,0 +1,14 @@
+{
+  "name": "fosten/farm_structure_asset_extended",
+  "description": "An extended farmOS structure asset",
+  "type": "drupal-module",
+  "authors": [
+      {
+          "name": "Brian Davis",
+          "email": "info@lillymountain.com"
+      }
+  ],
+  "require": {
+    "farmos/farmos": "^3.0"
+  }
+}

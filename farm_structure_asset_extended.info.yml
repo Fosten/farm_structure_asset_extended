@@ -1,0 +1,7 @@
+name: Structure Asset Extended
+description: An extended farmOS structure asset
+type: module
+package: farmOS Contrib
+core_version_requirement: ^10
+dependencies:
+  - farm:farm_structure

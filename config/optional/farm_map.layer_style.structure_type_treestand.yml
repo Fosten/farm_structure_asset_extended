@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_structure_types
+      - farm_structure_asset_extended
+id: structure_type_treestand
+color: orange
+conditions:
+  asset_type:
+    - structure
+  land_type:
+    - treestand
