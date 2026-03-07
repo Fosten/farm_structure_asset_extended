@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Add support for Drupal 11 and farmOS v4  [fosten]
 - Add CHANGELOG.md [fosten]
 
 ## [1.0.0] (2024-05-05)
